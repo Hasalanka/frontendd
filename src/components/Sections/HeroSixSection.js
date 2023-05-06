@@ -33,7 +33,7 @@ const HeroSixSection = () => {
               <h4 className={classes.header_text}>Paul James</h4>
               <p className={classes.text_location}>Lagos state</p>
               <p className={classes.text_content}>
-                With a Homely Eats meal, you can serve delectable, home-cooked
+                With a Fresco Eats meal, you can serve delectable, home-cooked
                 meals to your family and friends in any location, anytime.
                 anyday!
               </p>
